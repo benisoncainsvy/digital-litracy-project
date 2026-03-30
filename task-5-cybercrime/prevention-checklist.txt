@@ -1,0 +1,19 @@
+1. Secure Your UPI Transactions: Never enter your UPI PIN to receive money. A PIN is only required to send money or check your balance. If someone sends you a QR code and asks you to scan it to "get a refund" or "receive a payment," it is a scam.
+
+2. Verify Before You Pay: Before transferring money to a new contact for PG rent, used textbooks, or event tickets, verify their identity. Use the "Verify" feature in your UPI app (like GPay or PhonePe) to ensure the legal name matches the person you are dealing with.
+
+3. Use Two-Factor Authentication (2FA): Enable 2FA on your university email, WhatsApp, and social media accounts. This adds a critical second layer of security beyond just a password.
+
+4. Avoid Public Wi-Fi for Sensitive Tasks: Never log into your bank portal or student dashboard using free campus or cafe Wi-Fi. If you must use public Wi-Fi, use a trusted VPN to encrypt your data.
+
+5. Audit Your App Permissions: Periodically check your phone settings to see which apps have access to your Contacts, Microphone, and SMS. Malicious "loan apps" often use SMS access to harass students' contact lists.
+
+6. Spot the Phish: Be wary of messages on WhatsApp or Telegram offering "high-paying part-time jobs" or "free data recharges." Always check the URL; official Indian government sites end in .gov.in or .nic.in.
+
+7. If you falls victim to a digital scam , act immediately:
+
+  -Call the National Helpline: Dial 1930 (available 24/7) to report financial fraud instantly and potentially freeze the stolen funds.
+
+  -File a Formal Complaint: Visit the National Cyber Crime Reporting Portal at cybercrime.gov.in to register your case online.
+
+8.Update Software Immediately: Don’t hit "Remind me later" on system updates. These updates often contain "security patches" that fix vulnerabilities hackers use to break into your devices.
